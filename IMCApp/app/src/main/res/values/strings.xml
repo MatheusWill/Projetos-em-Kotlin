@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI Calculator</string>
+
+    <string name="str_peso">Height</string>
+    <string name="str_altura">High</string>
+    <string name="hint_peso">Enter your weight. Ex: 100</string>
+    <string name="hint_altura">Enter your height. Ex: 1.74</string>
+
+    <string name="erro_peso">Enter your weight!!</string>
+    <string name="erro_altura">Enter your height!!</string>
+
+</resources>
