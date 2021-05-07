@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IMC - APP</string>
+
+    <string-array name="cidades">
+        <item>São Paulo</item>
+        <item>Rio de Janeiro</item>
+        <item>Belo Horizonte</item>
+        <item>Fortaleza</item>
+        <item>Porto Alegre</item>
+    </string-array>
+</resources>
