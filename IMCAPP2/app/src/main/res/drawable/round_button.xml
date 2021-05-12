@@ -5,7 +5,7 @@
 
     <gradient
         android:startColor="@color/design_default_color_error"
-        android:endColor="@color/design_default_color_secondary_variant"
+        android:endColor="#25000D"
         android:angle="45"/>
 
     <corners android:radius="24dp"/>

@@ -9,7 +9,8 @@
         android:roundIcon="@drawable/peso"
         android:supportsRtl="true"
         android:theme="@style/Theme.IMCAPP">
-        <activity android:name=".NcdActivity"></activity>
+        <activity android:name=".spinner_item"></activity>
+        <activity android:name=".NcdActivity" />
         <activity android:name=".ResultadoImcActivity" />
         <activity android:name=".ImcActivity" />
         <activity android:name=".MainActivity">

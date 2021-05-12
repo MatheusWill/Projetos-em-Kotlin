@@ -9,4 +9,5 @@
     <color name="white">#FFFFFFFF</color>
 
     <color name="colorTitulo">#AFA83AAE</color>
+    <color name="testeRed">#FFB00020</color>
 </resources>

@@ -12,6 +12,7 @@ class ImcActivity : AppCompatActivity() {
         setContentView(R.layout.activity_imc)
 
         // val buttonCalcular: Button = findViewById(R.id.button_calcular_imc)
+        // button_calcular_imc.setBackgroundColor(R.drawable.round_button)
 
         button_calcular_imc.setOnClickListener {
 

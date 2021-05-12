@@ -1,11 +1,10 @@
 <resources>
     <string name="app_name">IMC - APP</string>
 
-    <string-array name="cidades">
-        <item>São Paulo</item>
-        <item>Rio de Janeiro</item>
-        <item>Belo Horizonte</item>
-        <item>Fortaleza</item>
-        <item>Porto Alegre</item>
+    <string-array name="tipo_atividade_fisica">
+        <item>Selecione</item>
+        <item>Leve</item>
+        <item>Moderada</item>
+        <item>Intensa</item>
     </string-array>
 </resources>
